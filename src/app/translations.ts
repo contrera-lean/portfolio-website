@@ -64,7 +64,7 @@ export const translations = {
       emailPlaceholder: 'tu@email.com',
       messagePlaceholder: 'Cuéntame sobre tu proyecto...',
       send: 'Enviar mensaje',
-      copyright: '© 2025 Leandro M. Contrera',
+      copyright: '© 2025 Leandro Contrera',
     },
   },
   en: {
@@ -130,7 +130,7 @@ export const translations = {
       emailPlaceholder: 'your@email.com',
       messagePlaceholder: 'Tell me about your project...',
       send: 'Send message',
-      copyright: '© 2025 Leandro M. Contrera',
+      copyright: '© 2025 Leandro Contrera',
     },
   },
 } as const;

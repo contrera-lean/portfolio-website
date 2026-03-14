@@ -231,7 +231,7 @@ export function Hero({ lang }: HeroProps) {
                 transition={{ duration: 3, repeat: Infinity, ease: 'easeInOut' }}
                 className="absolute -bottom-2 -right-2 bg-accent text-surface text-xs font-mono font-semibold px-3 py-1.5 rounded-full shadow-lg shadow-accent/30"
               >
-                Python 🐍
+                Python
               </motion.div>
             </div>
           </motion.div>

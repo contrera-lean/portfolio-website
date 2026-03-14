@@ -24,7 +24,7 @@ export default function App() {
 
   useEffect(() => {
     document.documentElement.style.scrollBehavior = 'smooth';
-    document.title = 'Portfolio | Leandro M. Contrera';
+    document.title = 'Portfolio | Leandro Contrera';
     return () => {
       document.documentElement.style.scrollBehavior = '';
     };

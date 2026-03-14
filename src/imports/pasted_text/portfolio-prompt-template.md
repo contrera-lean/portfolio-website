@@ -5,7 +5,7 @@
 
 ## 📋 DATOS GENERALES
 ```
-NOMBRE: Leandro M. Contrera
+NOMBRE: Leandro Contrera
 TITULO: Desarrollo Full-Stack orientado a Back-End Python.        
 UBICACION: Tucumán, Argentina
 FOTO: -
@@ -15,7 +15,7 @@ LINKEDIN:         www.linkedin.com/in/contrera-lean
 CV:               [URL del archivo]
 COLOR ACENTO:     electro-blue
 IDIOMA DEFAULT:   [Español / Inglés]
-TAB TITLE:        Portfolio | Leandro M. Contrera
+TAB TITLE:        Portfolio | Leandro Contrera
 FAVICON:          Icono de maletín negro
 ```
 
@@ -180,7 +180,7 @@ CERTIFICADO 2:
 HEADING:          [ej: "Conversamos?"]
 FORMULARIO:       sí
 EMAIL VISIBLE:    no
-COPYRIGHT:        © 2025 Leandro M. Contrera
+COPYRIGHT:        © 2025 Leandro Contrera
 ```
 - Contact form or mailto button + repeated social links
 - Copyright line
