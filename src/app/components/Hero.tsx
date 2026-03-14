@@ -138,7 +138,7 @@ export function Hero({ lang }: HeroProps) {
             <h1 className="text-5xl sm:text-6xl lg:text-7xl text-zinc-900 dark:text-white font-bold leading-tight" style={{ lineHeight: 1.05 }}>
               Leandro
               <br />
-              <span className="text-accent">M. Contrera</span>
+              <span className="text-accent">Contrera</span>
             </h1>
 
             {/* Subtitle */}
