@@ -1,0 +1,40 @@
+# Dependencias
+node_modules/
+
+# Build output (Cloudflare Pages lo genera en el pipeline)
+dist/
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Caché y temporales
+.cache/
+.vite/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Cloudflare
+.wrangler/
+
+# Guidelines internas (no son parte del sitio)
+guidelines/
